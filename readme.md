@@ -51,7 +51,6 @@ GLADIA_API_URL=https://api.gladia.io/audio/text/audio-transcription/
 LANGSMITH_API_KEY=your_langsmith_api_key
 ```
 
-**Never commit your `.env` file!**
 
 ---
 
